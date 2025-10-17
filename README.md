@@ -1,5 +1,8 @@
 # The SciLifeLab course template
 
+[![DOI](https://sandbox.zenodo.org/badge/950007995.svg)](https://handle.test.datacite.org/10.5072/zenodo.386162)
+
+
 The SciLifeLab template for setting up SciLifeLab branded courses using github pages. It includes:
 
 - Pre-configured GitHub Actions for continuous deployment to GitHub Pages (works out-of-the-box within the SciLifeLab github organization).
